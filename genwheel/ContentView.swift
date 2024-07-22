@@ -64,7 +64,7 @@ struct ContentView: View {
                             }
                         }
                     }) {
-                        Text("pin")
+                        Text("Roll")
                             .font(.title)
                             .padding()
                             .background(Color.blue)
