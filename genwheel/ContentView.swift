@@ -5,7 +5,7 @@ struct ContentView: View {
     @State private var rotation: Double = 0
     @State private var isPressed: Bool = false
     
-    private let genres = ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Horror", "Romance"]
+    private let genres = ["Action", "Rex", "Comedy", "Drama", "Fantasy", "Horror", "Romance"]
     private let angleOffset: Double = 0 // Base angle offset for all genres
 
     // Define custom rotation angles for each genre
